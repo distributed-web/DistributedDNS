@@ -1,3 +1,3 @@
-## Specifications ##
+## DistributedDNS Specifications ##
 
 DDNS
